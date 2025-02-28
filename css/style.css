@@ -162,6 +162,19 @@ img {
     .why-us .col-right {
         margin: 30px 0;
     }
+
+    .steps {
+        margin-bottom: 0;
+    }
+
+    .why-us {
+        background-color: black;
+    }
+
+    .why-us .container {
+        padding: 3rem 0;
+        margin-bottom: 0;
+    }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1160px){
